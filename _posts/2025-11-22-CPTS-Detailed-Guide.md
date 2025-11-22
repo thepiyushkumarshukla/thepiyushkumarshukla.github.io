@@ -156,7 +156,7 @@ I didn’t do Pro Labs myself, but they simulate the real exam environment. That
 ### 3. How much time does reporting take?
 
 It depends on you!  
-I made a **very detailed report (185 pages)** and it took me just **2 days**.
+I made a **very detailed report (185 pages)** and it took me just **2 days**. Reporting is simple, your steps must to be clear, professional and detailed.
 
 ---
 
