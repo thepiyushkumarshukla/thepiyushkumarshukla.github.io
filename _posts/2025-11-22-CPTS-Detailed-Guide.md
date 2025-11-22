@@ -71,8 +71,6 @@ Very surprising, but the results were good for me!
 
 ---
 
-Of course. Here is the optimized version of your exam progress log. It maintains your personal voice and raw emotion while improving the grammar, flow, and detail.
-
 ***
 
 ## Exam Days Progress
