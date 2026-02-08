@@ -184,7 +184,7 @@ Now you are good to go, and make sure you and your target PC are both on the sam
 
 **NOTE** :- You may encouter smartScreen
 
-![](here)
+![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/WhatsApp%20Image%202026-02-08%20at%205.24.54%20PM.jpeg)
 
  at first time of the execution which doesn't mean it's a paylaod or malware, It only mean that this binary is not from windows and not signed with microsoft so DON'T worry, It not mean you are detected !
 
