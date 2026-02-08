@@ -118,7 +118,7 @@ This guy makes a file named `RAW_payload` in your PWD.
 
 ## STEP :- 3 PASTING MAIN PAYLOAD IN TEMPLATE
 
-Now simply copy that whole `HEX` encoded `RAW_payload` file into the clipboard (it's a hell big random string 😒).
+Now simply copy that whole `HEX` encoded `RAW_payload` file into the clipboard and paste that whole `HEX` data into the given space in `TEMPLATE` as `SHELL-CODE-HERE` on line `14` (it's a hell big random string 😒).
 
 You may use this command to directly copy the whole stuff from the file to the clipboard :-
 
