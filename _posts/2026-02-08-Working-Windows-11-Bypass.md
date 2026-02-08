@@ -156,6 +156,7 @@ Run this command in your Kali, in the same terminal on which you are working til
 
 ```bash
 go get github.com/f1zm0/acheron
+go get golang.org/x/sys/windows
 ```
 
 And in the same terminal, run this command also:
