@@ -20,6 +20,16 @@ Method used :- [youtube](https://youtu.be/f5j0smXXi_4?si=ADNR-GgJcUY2mFbJ)
 
 ## STEP 1 :- SAVING THE PAYLOAD PRE-CODE
 
+In kali terminal made go project and more
+
+```bash
+go mod init demo
+
+go get github.com/f1zm0/acheron
+
+go get golang.org/x/sys/windows
+```
+
 In Kali, make a `main.go` file with the following contents inside it.....
 
 ```go
@@ -150,7 +160,7 @@ func main() {
 
 Now just **70% of the task is almost DONE!** 😁
 
-## STEP :- 4 INSTALLING SOME LIBRARIES!
+## STEP :- 4 INSTALLING SOME LIBRARIES Again !
 
 Run this command in your Kali, in the same terminal on which you are working till now!
 
