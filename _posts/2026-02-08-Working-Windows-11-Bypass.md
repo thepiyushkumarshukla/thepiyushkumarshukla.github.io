@@ -20,7 +20,7 @@ Method used :- [youtube](https://youtu.be/f5j0smXXi_4?si=ADNR-GgJcUY2mFbJ)
 
 ## STEP 1 :- SAVING THE PAYLOAD PRE-CODE
 
-In kali terminal made go project and more
+In kali terminal let's make a go project and install some libraries.
 
 ```bash
 go mod init demo
