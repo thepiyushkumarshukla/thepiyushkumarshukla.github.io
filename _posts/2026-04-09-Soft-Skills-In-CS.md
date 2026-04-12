@@ -33,7 +33,7 @@ He was a cool boy... He gave me his [REDACTED] account for practice on what I wa
 
 ***Case 4***
 
-By pivoting more and more in Mr. Abhay's network, I again found a hidden gem named **Aman Yadav**. Truly a legend. Now he grabbed my hand and guided me to many more people, and also supported me financially when I needed it + also opened many more earning opportunities for me. His entry in my life is one of the greatest turning points ever.
+By pivoting more and more in Mr. Abhay's network, I again found a hidden gem named **Aman Yadav**. Truly a legend. He guided me to many more people, and also supported me financially when I needed it + also opened many more earning opportunities for me. His entry in my life is one of the greatest turning points ever.
 
 ***Case 5***
 
