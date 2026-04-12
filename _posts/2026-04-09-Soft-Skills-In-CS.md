@@ -8,7 +8,7 @@ date: 2026-04-09 08:00 +0530
 
 ![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/firmbee-laptop-614213.jpg)
 
-### Cyber-security = fancy code, green terminal, bold letters, black hoodie, anonymous mask, and many cinematic and aesthetic vibes
+***Cyber-security = fancy code, green terminal, bold letters, black hoodie, anonymous mask, and many cinematic and aesthetic vibes***
 
 Okay, it is good. It depends on you and your vision... But this is not the only way to achieve what you want in cybersecurity.
 
