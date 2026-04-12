@@ -46,7 +46,7 @@ Now let's come to the point... After reading all these cases and connections, as
 The final connection graph is looks something like this :- 
 ![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/Screenshot%202026-04-10%20204230.png)
 
-But many more important connection are also there which i can't disclose here because of personal and privacy concerns.
+But many more important connection are also there which i can't disclose here because of personal and privacy concerns. And sorry if anyone i forgot, although there many more people who are GOAT and helped me with small - big steps. 
 
 ## Summary
 
