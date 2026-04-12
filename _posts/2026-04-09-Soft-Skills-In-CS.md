@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: "Soft Skills in Cybersecurity"
 date: 2026-04-09 08:00 +0530
+
 ---
 
-[1](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/firmbee-laptop-614213.jpg)
+![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/firmbee-laptop-614213.jpg)
 
 ### Cyber-security = fancy code, green terminal, bold letters, black hoodie, anonymous mask, and many cinematic and aesthetic vibes
 
@@ -42,7 +44,7 @@ This is quite confidential to talk about because the person involved here is not
 Now let's come to the point... After reading all these cases and connections, as you already guessed, without these great souls, my life and my journey was not full. These people helped and supported me on my journey and still keep supporting me whenever I need them. After meeting these people, I started thinking that:- **Thank God, you also made some great souls, not only devils in this Kalyug**
 
 The final connection graph is looks something like this :- 
-[2](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/Screenshot%202026-04-10%20204230.png)
+![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/Screenshot%202026-04-10%20204230.png)
 
 But many more important connection are also there which i can't disclose here because of personal and privacy concerns.
 
