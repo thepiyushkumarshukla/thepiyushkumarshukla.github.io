@@ -337,5 +337,6 @@ Both vulnerabilities referenced in this blog are fully patched and publicly disc
 - [HackerOne #115857 — SSRF and local file read in video to GIF converter (Imgur)](https://hackerone.com/reports/115857)
 - [FFmpeg Protocols Documentation](https://www.ffmpeg.org/ffmpeg-protocols.html)
 - [FFmpeg concat protocol](https://www.ffmpeg.org/ffmpeg-protocols.html#concat)
+- [Video POC of Advance SSRF](https://youtu.be/v3YQqTb5geU?si=E9ACJclIRs828idn)
 
 
