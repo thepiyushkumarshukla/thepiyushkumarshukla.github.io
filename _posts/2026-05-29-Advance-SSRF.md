@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "FFmpeg SSRF: How a Video Converter Became a Spy for Hackers"
+title: "SSRF - Going Beyond Pingbacks"
 date: 2026-05-29 08:00 +0530
 categories: [Real-Life-Findings]
 tags: [Real-Life-Findings]
 ---
 
 # FFmpeg SSRF: How a Video Converter Became a Spy for Hackers
+
+![image](https://i0.wp.com/payatu.com/wp-content/uploads/2022/07/Header_server-side-request-forgery-vulnerability-ssrf.jpg?w=1200&ssl=1)
 
 You know SSRF. You know how to get a pingback. Cool. But what if I told you that a video file — a freaking *video file* — can make a server read its own `/etc/passwd` and send it straight to your logs? Let's go.
 
