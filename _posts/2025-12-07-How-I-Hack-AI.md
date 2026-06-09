@@ -4,6 +4,7 @@ title: "How I Hacked AI (RCE + root + Persistence)"
 date: 2025-12-07 08:00 +0530
 categories: [Real-Life-Findings]
 tags: [Real-Life-Findings]
+image: /assets/pendulum-1934311.jpg
 ---
 
 # Discovery
