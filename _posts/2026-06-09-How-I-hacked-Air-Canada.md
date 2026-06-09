@@ -7,7 +7,7 @@ tags: [Real-Life-Findings]
 image: /assets/AC_2025_5-984x554.jpg
 ---
 
-***DISCLAMIER:- The below written write-up was all real. No editing or no filtration has been done. The Air Canada have its own VDP vulnerability disclosure program, and you can also hunt and find bugs. [Here](https://www.aircanada.com/in/en/aco/home/fly/customer-support/vulnerability-disclosure-program.html#/)*** 
+***DISCLAIMER ⚠️:- The below written write-up was all real. No editing or no filtration has been done. The Air Canada have its own VDP vulnerability disclosure program, and you can also hunt and find bugs. [Here](https://www.aircanada.com/in/en/aco/home/fly/customer-support/vulnerability-disclosure-program.html#/)*** 
 
 # Here's how I Bypassed a “Vibe-Coded” Auth Wall and Accidentally Stumbled Into a Passenger Data Leak
 
