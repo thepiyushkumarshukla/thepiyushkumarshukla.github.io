@@ -4,6 +4,7 @@ title: "Working windows 11 Defender bypass"
 date: 2026-02-08 08:00 +0530
 categories: [Real-Life-Findings]
 tags: [Real-Life-Findings]
+image: /assets/Windows-10-headpic.jpg
 ---
 
 # Full Windows 11 Defender Bypass
