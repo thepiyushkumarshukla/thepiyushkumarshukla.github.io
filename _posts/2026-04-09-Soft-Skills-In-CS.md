@@ -3,10 +3,8 @@
 layout: post
 title: "Soft Skills in Cybersecurity"
 date: 2026-04-09 08:00 +0530
-
+image: /assets/firmbee-laptop-614213.jpg
 ---
-
-![](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/firmbee-laptop-614213.jpg)
 
 ***Cyber-security = fancy code, green terminal, bold letters, black hoodie, anonymous mask, and many cinematic and aesthetic vibes***
 
