@@ -7,7 +7,9 @@ tags: [Real-Life-Findings]
 image: /assets/AC_2025_5-984x554.jpg
 ---
 
-# How I Bypassed a “Vibe-Coded” Auth Wall and Accidentally Stumbled Into a Passenger Data Leak
+***DISCLAMIER:- The below written write-up was all real. No editing or no filtration has been done. The Air Canada have its own VDP vulnerability disclosure program, and you can also hunt and find bugs. [Here](https://www.aircanada.com/in/en/aco/home/fly/customer-support/vulnerability-disclosure-program.html#/)*** 
+
+# Here's how I Bypassed a “Vibe-Coded” Auth Wall and Accidentally Stumbled Into a Passenger Data Leak
 
 What’s up everyone. So last week I was doing my usual subdomain grind — you know, just bruteforcing stuff, running httpx, looking for low-hanging fruit. Nothing too crazy. But then I hit something that made me stop my music and sit straight up.
 
