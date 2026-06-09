@@ -281,7 +281,7 @@ Look, I’m not writing this to roast the dev team. We’ve all been there — s
 - **Never** assume sessionStorage is secure.
 - And for the love of god, **lock down your Lambda URLs**.
 
-I stopped testing right after I confirmed the data leak. Scope said “no PII extraction” and I respect that. But I had to write this blog to show how a simple `sessionStorage.setItem('auth', '1')` can snowball into a full-blown privacy disaster.
+I stopped testing right after I confirmed the data leak. But I had to write this blog to show how a simple `sessionStorage.setItem('auth', '1')` can snowball into a full-blown privacy disaster.
 
 The vulnerability is now patched, or we can say patched somewhat, because this Python script is still working and it dumping those exact latest passenger's data as it is dumping before patch. Plus, I also have that integrated AI's API key, which let me query anything, and I can use that API key, that API key was ChatGPT-4 model and smart enough to integrate with my business. So it's something like, I use and they pay the bills.
 
