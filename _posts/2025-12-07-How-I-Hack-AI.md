@@ -9,7 +9,6 @@ image: /assets/pendulum-1934311.jpg
 
 # Discovery
 
-![Discovery](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/pendulum-1934311.jpg)
 
 I casually found a reel on Instagram which says :- " **In [Helium AI](https://he2.ai/), you can train the chatBOT with the custom data in the form of files, photos and PDFs** "
 
