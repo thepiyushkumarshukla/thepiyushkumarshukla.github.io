@@ -4,9 +4,10 @@ title: "Portswigger All SQLi Labs Solutions"
 date: 2026-01-02 08:00 +0530
 categories: [PortSwigger Labs]
 tags: [PortSwigger Labs]
+image: /assets/4A6B75FE-1E4A-45DE-B2E1-E5B2DDB74596.png
+
 ---
 
-![image](https://targetjobs.co.uk/static/7aed754252e452cf89d6f19815cef2fe/2a163/4A6B75FE-1E4A-45DE-B2E1-E5B2DDB74596.webp)
 
 # HTML FILE :- 
 
