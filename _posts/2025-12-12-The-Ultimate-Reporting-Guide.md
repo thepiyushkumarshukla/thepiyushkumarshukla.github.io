@@ -5,12 +5,12 @@ title: "The Ultimate Reporting Guide"
 date: 2025-12-12 08:00 +0530
 categories: [CPTS Stuff]
 tags: [CPTS]
+image: /assets/notebook-1840276.jpg
 
 ---
 
 # Getting Started
 
-![PIC](https://raw.githubusercontent.com/thepiyushkumarshukla/thepiyushkumarshukla.github.io/refs/heads/main/assets/notebook-1840276.jpg)
 
 Hello Hackers, I know reporting is a very **pathetic** and time-consuming process, but it's required to showcase your findings. There are many reporting styles based on different standards. Here I am specifically focused on CPTS or equivalent certification reporting. Without wasting much time, let's start!
 
