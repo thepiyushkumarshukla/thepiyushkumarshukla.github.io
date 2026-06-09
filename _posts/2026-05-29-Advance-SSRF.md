@@ -4,6 +4,7 @@ title: "SSRF - Going Beyond Pingbacks"
 date: 2026-05-29 08:00 +0530
 categories: [Real-Life-Findings]
 tags: [Real-Life-Findings]
+image: /assets/Header_server-side-request-forgery-vulnerability-ssrf.png
 ---
 
 # FFmpeg SSRF: How a Video Converter Became a Spy for Hackers
