@@ -9,8 +9,6 @@ image: /assets/Windows-10-headpic.jpg
 
 # Full Windows 11 Defender Bypass
 
-![](https://www.bleepstatic.com/content/hl-images/2020/10/13/Windows-10-headpic.jpg)
-
 ## Prerequisites
 
 1. Go lang must be installed on your **KALI** with no errors or PATH issues!
