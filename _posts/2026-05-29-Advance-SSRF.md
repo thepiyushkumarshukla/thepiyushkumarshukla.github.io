@@ -9,8 +9,6 @@ image: /assets/Header_server-side-request-forgery-vulnerability-ssrf.png
 
 # FFmpeg SSRF: How a Video Converter Became a Spy for Hackers
 
-![image](https://i0.wp.com/payatu.com/wp-content/uploads/2022/07/Header_server-side-request-forgery-vulnerability-ssrf.jpg?w=1200&ssl=1)
-
 You know SSRF. You know how to get a pingback. Cool. But what if I told you that a video file — a freaking *video file* — can make a server read its own `/etc/passwd` and send it straight to your logs? Let's go.
 
 > **Based on real disclosed HackerOne reports — both patched and publicly available:**
