@@ -5,6 +5,7 @@ title: "PortSwigger Labs python Scripts"
 date: 2026-01-02 08:00 +0530
 categories: [PortSwigger Labs]
 tags: [PortSwigger Labs]
+image: /assets/4A6B75FE-1E4A-45DE-B2E1-E5B2DDB74596.png
 
 ---
 
