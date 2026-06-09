@@ -4,11 +4,11 @@ title: "CPTS Detailed Guide"
 date: 2025-11-22 08:00 +0530
 categories: [CPTS Stuff]
 tags: [CPTS]
-image : /assets/GRXAcEp8ZhICxjMTvCELE81LDEANJIj8.jpg
 ---
 
 # Certified Penetration Testing Specialist
 
+![](https://www.hackthebox.com/storage/blog/GRXAcEp8ZhICxjMTvCELE81LDEANJIj8.jpg)
 
 First, I want to tell you **why you should read me?** Like, *how am I unique?*  
 Meanwhile, CPTS is done by many people, and you may find hundreds of articles and blogs on this topic.
